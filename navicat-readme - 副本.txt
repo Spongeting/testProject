@@ -1,1 +1,0 @@
-先运行安装程序navicat111_mysql_cs_x64.exe，安装成功后。再点击运行PatchNavicat.exe，打开安装目录下的navicat.exe 破解完成
